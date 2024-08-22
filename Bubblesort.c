@@ -5,7 +5,7 @@ int main(){
     int size;
     printf("\nEnter Size of Array:");
     scanf("%d",&size);  
-    /*if size is greater than 100, change the size of Array[] (declared globally)
+    /*if size is greater than 100, change the size of Array[] 
     as per the requirement.
     */
    printf("\nEnter the elements of Array:");
